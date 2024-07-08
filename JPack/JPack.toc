@@ -1,0 +1,19 @@
+## Interface: 30300
+## Title: [Duowan] JPack
+## Notes: Quick (re)sort out your items in your bags/bank/guildbank!
+## Title-zhCN: [多玩] 背包整理 JPack
+## Title-zhTW: [多玩] 背包整理 JPack
+## Notes-zhCN: 快速的整理玩家的背包、银行和公会银行
+## Notes-zhTW: 快速的整理玩家的背包、銀行和公會銀行
+## Version: 0.7.4
+## X-DuowanAddon: 商业物品
+## Dependencies: Duowan
+## X-Revision: Duowan
+## LoadOnDemand: 
+## SavedVariables: DuowanAddon_JPackDB
+# ## OptionalDeps: !!!CWDGLibsPack, tekDebug
+## Author: Jason Green, yleaf, 阳一
+
+localization\locales.xml
+JPack.lua
+JPack_Ex.lua

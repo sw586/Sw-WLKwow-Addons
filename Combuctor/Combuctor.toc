@@ -1,0 +1,23 @@
+﻿## Interface: 30300
+## Title: [Duowan] Combuctor
+## Title-zhCN: [多玩] 背包整合 Combuctor
+## Title-zhTW: [多玩] 背包整合 Combuctor
+## Notes: |cffbc8f8fBag Integration and breakups.|r
+## Notes-zhCN: |cff00ff00Combuctor|r                                             |cffbc8f8f背包整合与分类。|r
+## Notes-zhTW: |cff00ff00Combuctor|r                                             |cffbc8f8f背包整合與分類。|r
+## Author: Tuller
+## Version: 2.1.0
+## OptionalDeps: Ace3, Bagnon_Forever
+## SavedVariables: CombuctorDB3, CombuctorVersion
+## X-DuowanAddon: 商业物品
+## Dependencies: Duowan
+## X-Revision: Duowan
+
+load.xml
+
+#@default sets
+Combuctor_Sets\sets.lua
+
+#@configuration panel
+Combuctor_Config\panel.lua
+Combuctor_Config\general.lua

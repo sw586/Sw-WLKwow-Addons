@@ -1,0 +1,13 @@
+﻿## Interface: 30300
+## Title: Combuctor Config
+## Title-zhCN:<Combuctor> 配置模块
+## Title-zhTW: <Combuctor> 配置模塊
+## Notes: |cffbc8f8fAn options menu for Combuctor.|r
+## Notes-zhCN: |cff00ff00Combuctor_Config|r                                             |cffbc8f8f背包整合配置模块。|r
+## Notes-zhTW: |cff00ff00Combuctor_Config|r                                             |cffbc8f8f背包整合配置模塊。|r
+## Author: Tuller
+## Dependencies: Combuctor, Duowan
+## X-Revision: Duowan
+
+panel.lua
+general.lua

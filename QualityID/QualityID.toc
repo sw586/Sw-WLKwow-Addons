@@ -1,0 +1,10 @@
+﻿## Interface: 30000
+## Title: C物品/技能ID,需加载过期
+## Notes: 以品质颜色显示物品的基本信息 566-wow.com推荐
+## Author: Anaral
+## Version: 3.05.20
+## Version: 3.05.@project-revision@
+## SavedVariables: QIDDB
+## X-Category: Interface Enhancements
+
+QualityID.lua
